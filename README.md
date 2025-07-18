@@ -1,4 +1,5 @@
 **Color Sequence game**
+
 A simple memory game built with HTML, CSS, and JavaScript. Repeat the color sequence to level up. One wrong move ends the game.
 
 **How to Play**
@@ -15,3 +16,4 @@ A simple memory game built with HTML, CSS, and JavaScript. Repeat the color sequ
 
 **Credits**
   Made for fun and practice. Inspired by the classic Simon game.
+
